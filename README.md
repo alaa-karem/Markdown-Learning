@@ -2,9 +2,10 @@
 
 
 ## To make headings:
-# Heaing1
-## Heading2
-### Heading3
+#### Heading2
+##### Heading3
+###### Heaing4
+###### Heaing5
 
 ## To make word Italic:
 ###### *blablabla*
